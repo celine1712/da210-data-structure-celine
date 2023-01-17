@@ -40,7 +40,7 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 
 ## Tuesday Software Lab
 
-This first software lab walks you through your computer and Git setup, which is necessary to use `git pull` to get class resources.
+This [first software lab](../sw_lab/lab_01/README.md) walks you through your computer and Git setup, which is necessary to use `git pull` to get class resources.
 
 ---
 
