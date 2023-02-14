@@ -41,9 +41,9 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_2.c](../hw/HW_2.c/README.md) | Friday (2/10) | Monday (2/13) | Row selection, complex access combinations
 [HW_2.d](../hw/HW_2.d/README.md) | Monday (2/13) | Wednesday (2/15) | Aggregation and GroupBy
-HW_2.e | Wednesday (2/15) | Friday (2/17)    | Table combining
+[HW_2.e](../hw/HW_2.e/README.md) | Wednesday (2/15) | Friday (2/17)    | Table combining
 HW_2.f | Friday (2/17) | Monday (2/20) | Transpose, melt, normalization I
 
 ## Tuesday Software Lab
 
-In the fifth software lab, we'll explore our second advanced tabular operation: mutation.  We'll look at deleting one or more columns or rows, adding a column to an existing `DataFrame`, and updating all or some values within an existng column.
+In the [fifth software lab](../sw_lab/lab_05/README.md), we'll explore our second advanced tabular operation: mutation.  We'll look at deleting one or more columns or rows, adding a column to an existing `DataFrame`, and updating all or some values within an existng column.
