@@ -42,7 +42,9 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_2.f](../hw/HW_2.f/README.md) | Friday (2/17) | Monday (2/20) | Transpose, melt, normalization I
 [HW_2.g](../hw/HW_2.g/README.md) | Monday (2/20) | Wednesday (2/22) | Pivot, normalization II
-[HW_3.a](../hw/HW_3.a/README.md) | Friday (2/24) | Monday (2/27) | JSON
+[HW_3.a](../hw/HW_3.a/README.md) | Friday (2/24) | Wednesday (3/1)* | JSON
+
+__Note__: The due date for HW 3.a was updated to Wednesday 3/1, to coincide with the due date of HW 3.b.
 
 ## Tuesday Software Lab
 
