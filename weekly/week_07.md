@@ -39,7 +39,7 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_3.a](../hw/HW_3.a/README.md) | Friday (2/24) | Wednesday (3/1) | JSON
 [HW_3.b](../hw/HW_3.b/README.md) | Monday (2/27) | Wednesday (3/1) | XML
-HW_3.c | Wednesday (3/1)  | Friday (3/3) | XML procedural operations
+[HW_3.c](../hw/HW_3.c/README.md) | Wednesday (3/1)  | Friday (3/3) | XML procedural operations
 HW_3.d | Friday (3/3) | Monday (3/6) | Regular expressions
 
 ## Tuesday Software Lab
