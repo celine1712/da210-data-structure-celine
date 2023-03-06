@@ -15,7 +15,7 @@ Day        | Reading      | Reading Questions
 Monday     | Section 15.4 | none
 Tuesday    | Sections 16.1-16.2 | 16.5
 Wednesday  | Section 16.3 | none
-Friday     | Sections 4.3.1-4.3.4 | none
+Friday     | Sections 4.1-4.3.6 | 4.3, 4.17, 4.27
 
 ## Progression
 
@@ -40,7 +40,9 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 [HW_3.a](../hw/HW_3.a/README.md) | Friday (2/24) | Wednesday (3/1) | JSON
 [HW_3.b](../hw/HW_3.b/README.md) | Monday (2/27) | Wednesday (3/1) | XML
 [HW_3.c](../hw/HW_3.c/README.md) | Wednesday (3/1)  | Friday (3/3) | XML procedural operations
-HW_3.d | Friday (3/3) | Monday (3/6) | Regular expressions
+[HW_3.d](../hw/HW_3.d/README.md) | Friday (3/3) | Wednesday (3/8) | Regular expressions
+
+__Note__: The due date for HW 3.d was updated to Wednesday 3/8 due to its late release.
 
 ## Tuesday Software Lab
 
