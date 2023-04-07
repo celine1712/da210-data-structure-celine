@@ -37,8 +37,8 @@ Friday: We will launch into some of the most important principles for when we ne
 HW | Day Assigned  | Day Due (by 11:59pm) | Contents
 :--|:--------|:--------|:------------
 [HW_4.c](../hw/HW_4.c/README.md) | Monday (4/3) | Wednesday (4/5) | `school` database and multi-table inner joins
-HW_4.d | Wednesday (4/5) | Friday (4/7) | Complex multi-table aggregation and subqueries
-HW_4.e | Friday (4/7) | Monday (4/10) | Relational database design
+[HW_4.d](../hw/HW_4.d/README.md) | Wednesday (4/5) | Friday (4/7) | Complex multi-table aggregation and subqueries
+[HW_4.e](../hw/HW_4.e/README.md) | Friday (4/7) | Monday (4/10) | Relational database design
 
 ## Tuesday Software Lab
 
